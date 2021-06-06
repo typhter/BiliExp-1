@@ -22,7 +22,7 @@ BiliExp
 
 | ↳ Stargazers | ↳ Forkers |
 |  :---:  | :---:  |
-| [![Stargazers repo roster for @happy888888/BiliExp](https://reporoster.com/stars/happy888888/BiliExp)](https://github.com/happy888888/BiliExp/stargazers)  | [![Forkers repo roster for @happy888888/BiliExp](https://reporoster.com/forks/happy888888/BiliExp)](https://github.com/happy888888/BiliExp/network/members) |
+| [![Stargazers repo roster for @AayauikiNya/BiliExp-dev1.2.1](https://reporoster.com/stars/AyayukiNya/BiliExp-dev1.2.1)](https://github.com/AyayukiNya/BiliExp-dev1.2.1/stargazers)  | [![Forkers repo roster for @AyayukiNya/BiliExp-dev1.2.1](https://reporoster.com/forks/AyayukiNya/BiliExp-dev1.2.1)](https://github.com/AyayukiNya/BiliExp-dev1.2.1/network/members) |
 
 # 项目说明
 
@@ -404,13 +404,6 @@ BiliExp
 	```
 
 </br></br></br>
-
-## 打赏
-如果觉得本项目好用，对你有所帮助，欢迎打赏支持一下本项目发展！！！
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/67217225/99527309-8d48d480-29d7-11eb-8f4e-7034dbd91baf.png" width="600" title="支付宝，微信，QQ扫码赞助" style="display:block;" />
 
 </div>
 

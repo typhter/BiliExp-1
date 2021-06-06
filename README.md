@@ -5,7 +5,7 @@ BiliExp
 
 ![image](https://user-images.githubusercontent.com/67217225/96542531-d6bcdb80-12d4-11eb-81e1-49f3d3b85dfe.png)
 <br>
-
+仅仅为自己用的备份，不会有更新了，我不是作者，只是觉得好用重新上传使用，之后会设置隐藏的
 <br>
 
 <br>
